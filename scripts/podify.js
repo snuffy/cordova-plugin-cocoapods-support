@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var _ = require('scripts/lodash');
+var _ = require('./lodash.js');
 var fs = require('fs');
 var path = require("path");
 var xml2js = require('xml2js');
