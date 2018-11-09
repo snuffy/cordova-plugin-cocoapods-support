@@ -7,6 +7,7 @@
     <repo>https://github.com/blakgeek/cordova-plugin-cocoapods-support.git</repo>
     <issue>https://github.com/blakgeek/cordova-plugin-cocoapods-support/issues</issue>
     <license>MIT</license>
+    <dependency id="lodash">
     <engines>
         <engine name="cordova" version="&gt;=6.0.0"/>
     </engines>
